@@ -73,8 +73,8 @@
 
 
 ## **Dependencies**
-    - Python Version: Requires Python 3.6+.
-    - Modules: Uses the built-in datetime module for handling dates.
+    **Python Version:** Requires Python 3.6+.
+    **Modules:** Uses the built-in datetime module for handling dates.
 
 ## **Development Notes**
 ### **1. Date Formatting**:
