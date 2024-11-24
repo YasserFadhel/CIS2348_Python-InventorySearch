@@ -102,11 +102,5 @@
 
 ---
 
-## **License**
-This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for details.
-
----
-
 ## **Acknowledgments**
 This project was developed with assistance from **OpenAI's ChatGPT**, which provided guidance on specific functionalities and code optimization.
