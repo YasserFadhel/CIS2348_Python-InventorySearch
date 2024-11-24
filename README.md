@@ -48,6 +48,7 @@
    python FinalInventoryQuery.py
 
 
+
 ## **Usage**
 1. Run the script and follow the prompts:
 
@@ -72,11 +73,13 @@
     See suggestions for alternative items.
 
 
+
 ## **Dependencies**
 
    Python Version: Requires Python 3.6+.
    
    Modules: Uses the built-in datetime module for handling dates.
+
 
 ## **Development Notes**
 ### **1. Date Formatting**:
@@ -96,6 +99,7 @@
 
 ---
 
+
 ## **Future Improvements**
 - **Persistent Storage**: Integrate a database backend for storing inventory data.
 - **GUI Development**: Create a graphical user interface for improved usability.
@@ -104,5 +108,8 @@
 
 ---
 
+
 ## **Acknowledgments**
-This project was developed with assistance from **OpenAI's ChatGPT**, which provided guidance on specific functionalities and code optimization.
+This project was developed with assistance from **OpenAI's ChatGPT**, which provided guidance on specific functionalities and code optimization. We were encouraged to use ChatGPT in some part of our code development.
+
+---
