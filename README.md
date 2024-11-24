@@ -48,7 +48,6 @@
    python FinalInventoryQuery.py
 
 
-
 ## **Usage**
 1. Run the script and follow the prompts:
 
