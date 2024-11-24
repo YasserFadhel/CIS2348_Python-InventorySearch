@@ -44,6 +44,7 @@
    git clone <repository-url>
    cd <repository-directory>
 2. Run the Python script:
+   ```bash
    python FinalInventoryQuery.py
 
 
